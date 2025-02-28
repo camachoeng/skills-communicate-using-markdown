@@ -3,7 +3,7 @@
 ### Categories
 Here is the thing
 
-![Image of Addictive Behaviors](C:\Users\Randy\Pictures\opcion1.jpg)
+![Image of Addictive Behaviors](https://github.com/camachoeng/skills-communicate-using-markdown/blob/main/opcion1.jpg)
 
 ``` javascript
 var myVar = "Hello, world!";
